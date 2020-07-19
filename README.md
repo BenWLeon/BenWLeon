@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my Github profile! I don't have any public repos or projects. 
+
+I'm a developer working at @Hydrite and I'm also the webmaster of @WMCPA. 
+
+Feel free to check out our page https://WMCPA.org
+
 <!--
 **BenWLeon/BenWLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
