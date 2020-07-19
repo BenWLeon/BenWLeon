@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! I don't have any public repos or projects. 
 
-I'm a developer working at @Hydrite and I'm also the webmaster of @WMCPA. 
+I'm a developer working at [@Hydrite](https://github.com/Hydrite/) and I'm also the webmaster of [@WMCPA](https://github.com/WMCPA/). 
 
 Feel free to check out our page https://WMCPA.org
 
