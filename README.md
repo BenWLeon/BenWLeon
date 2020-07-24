@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github profile! I don't have any public repos or projects. 
+Welcome to my Github profile!
 
 I'm a developer working at [@Hydrite](https://github.com/Hydrite/) and I'm also the webmaster of [@WMCPA](https://github.com/WMCPA/). 
 
