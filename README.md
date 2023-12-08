@@ -2,10 +2,9 @@
 
 Welcome to my Github profile!
 
-I'm a developer working at [@Hydrite](https://github.com/Hydrite/) and I'm also the webmaster of [@WMCPA](https://github.com/WMCPA/). 
+I'm a architect at [@Hydrite](https://github.com/Hydrite/) and former webmaster of [@WMCPA](https://github.com/WMCPA/). 
 
-Feel free to check out our page https://WMCPA.org
-
+Feel free to check out our page [https://hydrite.com](https://www.hydrite.com)
 <!--
 **BenWLeon/BenWLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
