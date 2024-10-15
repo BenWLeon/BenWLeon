@@ -2,7 +2,7 @@
 
 Welcome to my Github profile!
 
-I'm a architect at [@Hydrite](https://github.com/Hydrite/) and former webmaster of [@WMCPA](https://github.com/WMCPA/). 
+I'm a software architect at [@Hydrite](https://github.com/Hydrite/) and former webmaster of [@WMCPA](https://github.com/WMCPA/). 
 
 Feel free to check out our page [https://hydrite.com](https://www.hydrite.com)
 <!--
